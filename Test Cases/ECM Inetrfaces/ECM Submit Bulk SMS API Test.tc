@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ECM Submit Bulk SMS API Test</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b55244ce-762b-4528-8539-a2e0a361f9eb</testCaseGuid>
+</TestCaseEntity>

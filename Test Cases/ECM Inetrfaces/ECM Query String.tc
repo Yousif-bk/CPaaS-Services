@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ECM Query String</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ad2e0b9a-74b0-4d26-8f17-9f82e20e0500</testCaseGuid>
+</TestCaseEntity>
