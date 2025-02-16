@@ -36,7 +36,7 @@
       <guid>79ddd89b-bf2b-4e24-89c8-43a98a3dc090</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/ECM Inetrfaces/ECM Submit None Bulk SMS API Test</testCaseId>
+      <testCaseId>Test Cases/ECM Inetrfaces/ECM Submit Non-Bulk SMS API Test</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

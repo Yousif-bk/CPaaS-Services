@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KSA Submit Non-Bulk SMS API Test</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e1d963e4-bdb6-4892-b444-84d7afb824a5</testCaseGuid>
+</TestCaseEntity>
