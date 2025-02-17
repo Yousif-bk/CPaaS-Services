@@ -38,7 +38,7 @@ WS.comment("Extracted Token: " + token)
 
 def smsResponse = WS.sendRequest(findTestObject('ECM Interfaces OR/ECM Submit SMS QR', [('jwt_token') : token]))
 
-if (smsResponse.getStatusCode() == 200 || smsResponse.getStatusCode() == 201) {
+if (smsResponse.getStatusCode() == 200 || smsResponse.getStatusCode() == 202) {
 	KeywordUtil.logInfo("SMS API Call Successful! Status: " + smsResponse.getStatusCode())
 } else {
 	KeywordUtil.markFailed("SMS API Call Failed! Status: " + smsResponse.getStatusCode())
