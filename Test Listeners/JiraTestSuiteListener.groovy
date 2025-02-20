@@ -39,17 +39,14 @@ class JiraTestSuiteListener {
     @AfterTestCase
     def sampleAfterTestCase(TestCaseContext testCaseContext) {
         String testCaseId = testCaseContext.getTestCaseId()
-        String testStatus = testCaseContext.getTestCaseStatus()
-        testResults.add("- ${testCaseId}: *${testStatus}*")
-        println "Finished test case: " + testCaseId + " with status: " + testStatus
-		
-		   // Debug: Check if test results are being added
-        println "Adding Test Case Result: ${testCaseId}: ${testStatus}"
-        
-        testResults.add("- ${testCaseId}: *${testStatus}*")
-
-     
-		WS.comment("Test Reqsults: " + testResults)
+    String testStatus = testCaseContext.getTestCaseStatus()
+    
+    println "Adding Test Case Result: ${testCaseId}: ${testStatus}"
+    
+    // Add only once
+    testResults.add("- ${testCaseId}: *${testStatus}*")
+    
+    WS.comment("Test Results: " + testResults)
     }
 
     @AfterTestSuite
