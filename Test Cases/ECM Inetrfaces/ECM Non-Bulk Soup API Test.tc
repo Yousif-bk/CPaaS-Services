@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ECM Non-Bulk Soup API Test</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>191b2fe3-c239-42c7-873c-d6e5ddb0e9ef</testCaseGuid>
+</TestCaseEntity>
