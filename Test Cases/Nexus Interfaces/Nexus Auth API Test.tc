@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Nexus Auth API Test</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e38ff3be-f482-4423-9ffb-31b6d84d6e53</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Nexus Non-Bulk SMS API Test</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d65b2c36-9556-4a20-900c-713992c28341</testCaseGuid>
+</TestCaseEntity>
