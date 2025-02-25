@@ -46,4 +46,18 @@
       <testCaseId>Test Cases/ECM Inetrfaces/ECM Submit Bulk Email Test</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>1e44e13b-f533-4cf1-890e-6ea6a8e417e4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ECM Inetrfaces/ECM Non-Bulk Soup API Test</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c9395883-1b50-44ab-8434-d0facba87a9c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ECM Inetrfaces/ECM Non-Bulk XML API Test</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
