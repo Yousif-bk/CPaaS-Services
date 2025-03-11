@@ -58,7 +58,7 @@
                &lt;!--Optional:-->
                &lt;sms1:Simple>
                   &lt;sms1:MsgDetails>
-                     &lt;sms1:ShortMessage>Hralth Check ECM Non Bulk Soup APII&lt;/sms1:ShortMessage>
+                     &lt;sms1:ShortMessage>Hralth Check: ECM Soup APII&lt;/sms1:ShortMessage>
                   &lt;/sms1:MsgDetails>
                   &lt;sms1:Recipient>
                      &lt;!--Optional:-->
