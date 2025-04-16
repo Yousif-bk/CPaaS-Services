@@ -12,7 +12,7 @@
    <followRedirects>true</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n  \&quot;msgCategory\&quot;: \&quot;4.5\&quot;,\n   \&quot;contentType\&quot;: \&quot;3.2\&quot;,\n   \&quot;senderAddr\&quot;: \&quot;engageX\&quot;,\n   \&quot;dndCategory\&quot;: \&quot;Campaign\&quot;,\n   \&quot;priority\&quot;: \&quot;1\&quot;,\n   \&quot;clientTxnId\&quot;: \&quot;1753\&quot;,\n   \&quot;recipient\&quot;: \&quot;971554573936\&quot;,\n   \&quot;msg\&quot;: \&quot;Health Check: Non-Bulk SMS Automate Test\&quot;,\n   \&quot;dr\&quot;: \&quot;1\&quot;\n}&quot;,
+  &quot;text&quot;: &quot;{\n  \&quot;msgCategory\&quot;: \&quot;4.5\&quot;,\n   \&quot;contentType\&quot;: \&quot;3.2\&quot;,\n   \&quot;senderAddr\&quot;: \&quot;engageX\&quot;,\n   \&quot;dndCategory\&quot;: \&quot;Campaign\&quot;,\n   \&quot;priority\&quot;: \&quot;1\&quot;,\n   \&quot;clientTxnId\&quot;: \&quot;1753\&quot;,\n   \&quot;recipient\&quot;: \&quot;97155457393\&quot;,\n   \&quot;msg\&quot;: \&quot;Health Check: Non-Bulk SMS Automate Test\&quot;,\n   \&quot;dr\&quot;: \&quot;1\&quot;\n}&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
