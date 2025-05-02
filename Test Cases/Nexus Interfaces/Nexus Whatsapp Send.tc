@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Nexus Whatsapp Send</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7b335d1e-d377-4735-abbb-221dc99286c4</testCaseGuid>
+</TestCaseEntity>
