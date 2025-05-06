@@ -34,7 +34,7 @@ WS.comment("Extracted Token: " + token)
 
 def smsResponse = WS.sendRequest(findTestObject('Nexus Interfaces OR/Nexus Non-Bulk Email API OR', [('authToken') : token]))
 
-if (smsResponse.getStatusCode() == 200 || smsResponse.getStatusCode() == 202) {
+if (smsResponse.getStatusCode() == 201 || smsResponse.getStatusCode() == 202) {
 	KeywordUtil.logInfo("SMS API Call Successful! Status: " + smsResponse.getStatusCode())
 } else {
 	KeywordUtil.markFailed("SMS API Call Failed! Status: " + smsResponse.getStatusCode())
