@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Nexus Non-Bulk Email API Test</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f77d6dc1-e8f5-464c-9dbc-9e49c0d71eb1</testCaseGuid>
+</TestCaseEntity>
