@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KSA Sumbit Bulk SMS API Test</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>330303cc-19d2-4171-bcda-c4a2f4367d24</testCaseGuid>
+</TestCaseEntity>
